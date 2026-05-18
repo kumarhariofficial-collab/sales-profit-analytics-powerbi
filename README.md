@@ -6,7 +6,7 @@ Designed an interactive **Power BI Dashboard** to analyze global sales, profit t
 ---
 
 ## 📂 Datasets
-- 📊 [Finance Dataset (Excel)](https://github.com/AmudhanAR/Global-Sales-Profit-Dashboard-using-Excel-and-Power-BI/blob/main/Finance%20dataset.xlsx)
+- 📊 [Finance Dataset (Excel)](https://github.com/kumarhariofficial-collab/sales-profit-analytics-powerbi/blob/main/Finance_dataset_excel.xlsx)
 
 ---
 
@@ -19,7 +19,6 @@ Designed an interactive **Power BI Dashboard** to analyze global sales, profit t
   - **Quarter** (Q1, Q2, Q3, Q4)
   - **Country** and **Segment**
 - 📌 Sales KPIs & dynamic sales tracker gauge
-<img width="610" alt="pbi dashboard" src="https://github.com/user-attachments/assets/bdf47b0b-48d8-4cde-8701-0bcfc2affeef" />
 
 ---
 
@@ -32,8 +31,8 @@ Designed an interactive **Power BI Dashboard** to analyze global sales, profit t
 ---
 
 ## 📥 Download Project Files
-- 📊 [Power BI Dashboard (.pbix file)](https://github.com/AmudhanAR/Global-Sales-Profit-Dashboard-using-Excel-and-Power-BI/blob/main/PBI%20assignment.pbix)
-- 📄 [Finance Dataset (.xlsx file)](https://github.com/AmudhanAR/Global-Sales-Profit-Dashboard-using-Excel-and-Power-BI/blob/main/Finance%20dataset.xlsx)
+- 📊 [Power BI Dashboard (.pbix file)](https://github.com/kumarhariofficial-collab/sales-profit-analytics-powerbi/blob/main/Commerce%20Analytics.pbix)
+- 📄 [Finance Dataset (.xlsx file)](https://github.com/kumarhariofficial-collab/sales-profit-analytics-powerbi/blob/main/Finance_dataset_excel.xlsx)
 
 ---
 ### 🎯 Process
@@ -64,6 +63,4 @@ Designed an interactive **Power BI Dashboard** to analyze global sales, profit t
 - Add **forecasting** using DAX.
 - Perform **discount impact analysis**.
 - Integrate real-time data sources via **SQL/DirectQuery**.
-
 ---
-
